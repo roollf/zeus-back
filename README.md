@@ -1,4 +1,4 @@
-# Zeus-Back - Backend (API)
+# Zeus Backend (API)
 
 Este repositório é o backend do projeto Zeus, uma API desenvolvida com Express.js para gerenciamento de custos relacionados à coleção "racao" em um banco de dados MongoDB. Ele fornece endpoints para cadastro, consulta, atualização e exclusão de registros.
 
